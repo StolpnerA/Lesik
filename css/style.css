@@ -94,7 +94,11 @@ body {
 .content {
     padding-top: 110px;
 }
-
+.descriptionMain {
+    margin: 50px 200px 50px 200px;
+    width: auto;
+    text-align: justify;
+}
 .rainbow img {
     margin-left: -150px;
     width: 1600px;
